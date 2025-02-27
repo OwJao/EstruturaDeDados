@@ -1,0 +1,4 @@
+1 Flamengo 23
+2 VoltaRedonda 20
+3 Vasco 17
+9 Botafogo 13
